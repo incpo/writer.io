@@ -1,7 +1,7 @@
 <p align="center">
-<img width="150" src="https://imgur.com/9tAxuXm.png">
+<img width="100" src="https://imgur.com/9tAxuXm.png">
 </p>
----
+
 
 # WriterIo
 
