@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.afterDelete {
+    z-index: 0;
+}
+
+.afterDelete::after {
+    transform: translateY(-50%);
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -5;
+}
